@@ -1,0 +1,8 @@
+si verdadero entonces
+  imprimir("Hola!");
+  imprimir("Todo bien?");
+  salir;
+sino {
+  imprimir("Adiós!");
+  salir;
+}

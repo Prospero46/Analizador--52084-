@@ -1,0 +1,5 @@
+si verdadero entonces
+ salir;
+sino 
+ salir;
+ 

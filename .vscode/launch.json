@@ -1,0 +1,42 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+
+    {
+    "name": "ejemplo 1",
+    "type": "antlr-debug",
+    "request": "launch",
+    "input": "ejemplo1correcto.txt",
+    "grammar": "analizador.g4",
+    "printParseTree": true,
+    "visualParseTree": true
+    },
+    {
+    "name": "ejemplo 2",
+    "type": "antlr-debug",
+    "request": "launch",
+    "input": "ejemplo2correcto.txt",
+    "grammar": "analizador.g4",
+    "printParseTree": true,
+    "visualParseTree": true
+    },
+      {
+    "name": "ejemplo 3",
+    "type": "antlr-debug",
+    "request": "launch",
+    "input": "ejemplo3incorrecto.txt",
+    "grammar": "analizador.g4",
+    "printParseTree": true,
+    "visualParseTree": true
+    },
+      {
+    "name": "ejemplo 4",
+    "type": "antlr-debug",
+    "request": "launch",
+    "input": "ejemplo4incorrecto.txt",
+    "grammar": "analizador.g4",
+    "printParseTree": true,
+    "visualParseTree": true
+    }
+    ]
+}

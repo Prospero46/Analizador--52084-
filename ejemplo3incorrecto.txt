@@ -1,0 +1,7 @@
+si verdadero entonces
+ imprimir("");
+ salir;
+sino 
+ imprimir("");
+ salir;
+ 
